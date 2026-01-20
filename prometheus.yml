@@ -9,6 +9,8 @@ alerting:
     - static_configs:
         - targets:
           # - alertmanager:9093
+          # + A기능 추가
+          # + B기능 추가
  
 # Load rules once and periodically evaluate them according to the global 'evaluation_interval'.
 rule_files:
